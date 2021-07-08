@@ -1,0 +1,25 @@
+p {
+  color: white;
+}
+h1 {
+  color: #3dc6c1;
+  font-size: 60px;
+  font-weight: bold;
+}
+.h1 {
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+}
+.title {
+  margin-bottom: 35px;
+  color: #3dc6c1;
+  text-align: start;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}

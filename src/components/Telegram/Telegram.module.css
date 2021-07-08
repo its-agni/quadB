@@ -1,0 +1,37 @@
+.header {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.header h1 {
+  color: white;
+  font-size: 50px;
+}
+.botGroup {
+  color: white;
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+.manual {
+  color: white;
+  font-size: 40px;
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+.manual li {
+  list-style: none;
+  font-size: 25px;
+}
+
+.auto {
+  color: white;
+  font-size: 25px;
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+.auto a {
+  color: white;
+  text-decoration: underline;
+}
